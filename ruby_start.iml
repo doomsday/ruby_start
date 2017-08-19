@@ -5,8 +5,5 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="ruby-2.4.1-p111" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="io-console (v0.4.6, ruby-2.4.1-p111) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="mongo (v2.4.2, ruby-2.4.1-p111) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rest-client (v2.0.2, ruby-2.4.1-p111) [gem]" level="application" />
   </component>
 </module>
